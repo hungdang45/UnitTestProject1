@@ -24,7 +24,7 @@ namespace UnitTestProject1
             //var service = WiniumDriverService.CreateDesktopService(@"C:\Users\bom4e\Downloads\Winium.Desktop.Driver");
             var service = WiniumDriverService.CreateDesktopService(@"C:\Users\HungDang\Downloads\Winium.Desktop.Driver");
         
-
+            /// Add Comment to test push
          DesktopOptions option = new DesktopOptions
             {
                 ApplicationPath = PosAppId
